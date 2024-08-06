@@ -1,7 +1,19 @@
-:root {
-
-}
+:root {}
 
 html {
   font-size: 62.5%;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-width: 320px;
+}
+
+article h1 {
+  font-size: 300px;
 }
